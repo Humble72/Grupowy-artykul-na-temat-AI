@@ -11,3 +11,11 @@ Wpływ tego typu narzędzi na codzienną pracę jest doskonale widoczny w danych
 
 ## 3. GitHub Spark: Szybsze wdrażanie aplikacji
 Rozwój asystentów AI nie zatrzymuje się jedynie na podpowiadaniu kodu. Ekosystem poszerza się o narzędzia takie jak GitHub Spark, które ułatwiają budowanie i wdrażanie inteligentnych aplikacji bezpośrednio ze środowiska programistycznego. Zmniejsza to barierę wejścia dla programistów tworzących projekty oparte na modelach językowych i przyspiesza fazę prototypowania.
+
+## Podsumowanie
+Wdrożenie narzędzi takich jak GitHub Copilot drastycznie zwiększa produktywność zespołów projektowych. Automatyzacja rutynowych zadań i bieżące wsparcie w trakcie pisania kodu pozwalają na szybsze dostarczanie wartościowego oprogramowania. Chociaż AI nie zastępuje programisty, to zdecydowanie przyspiesza jego pracę i ułatwia naukę nowych technologii.
+
+### Bibliografia
+* [1] Raport rynkowy: Wpływ GitHub Copilot na produktywność programistów.
+* [2] Statystyki adopcji AI w kodzie, GitHub Blog.
+* [3] Dokumentacja techniczna - ekosystem GitHub Spark.
