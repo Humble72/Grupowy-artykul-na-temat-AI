@@ -5,3 +5,6 @@ Narzędzia oparte na sztucznej inteligencji przestały być tylko technologiczn�
 
 ## 1. GitHub Copilot: Twój "AI Pair Programmer"
 GitHub Copilot to obecnie jedno z najważniejszych narzędzi w arsenale nowoczesnego programisty. Działając jako wirtualny partner (AI pair programmer), Copilot w czasie rzeczywistym analizuje kontekst otwartych plików oraz komentarzy, aby sugerować całe bloki kodu. Oznacza to radykalną zmianę w przepływie pracy – deweloper przestaje pisać powtarzalny tzw. "boilerplate code", a skupia się na architekturze i logice biznesowej.
+
+## 2. Zmierzalny wpływ na wydajność
+Wpływ tego typu narzędzi na codzienną pracę jest doskonale widoczny w danych statystycznych. Jak wskazują analizy rynkowe, w plikach, w których włączony jest Copilot, sztuczna inteligencja odpowiada już za blisko **40% generowanego kodu** w popularnych językach, takich jak Python. Pokazuje to, jak dużą część rutynowych zadań przejmuje algorytm.
