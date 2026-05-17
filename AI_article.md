@@ -15,6 +15,12 @@ Rozwój asystentów AI nie zatrzymuje się jedynie na podpowiadaniu kodu. Ekosys
 ## Podsumowanie
 Wdrożenie narzędzi takich jak GitHub Copilot drastycznie zwiększa produktywność zespołów projektowych. Automatyzacja rutynowych zadań i bieżące wsparcie w trakcie pisania kodu pozwalają na szybsze dostarczanie wartościowego oprogramowania. Chociaż AI nie zastępuje programisty, to zdecydowanie przyspiesza jego pracę i ułatwia naukę nowych technologii.
 
+### Autorzy
+Rafał Pokorny 102191
+Tomasz Tomana 102705
+Szymon Żygadło 103022
+Artur Rynkowski 104392
+
 ### Bibliografia
 * [1] Raport rynkowy: Wpływ GitHub Copilot na produktywność programistów.
 * [2] Statystyki adopcji AI w kodzie, GitHub Blog.
